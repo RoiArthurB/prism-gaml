@@ -1,0 +1,9 @@
+{
+  "name": "prism-gaml",
+  "version": "0.1.0",
+  "description": "Brings GAML language to PrismJS engine",
+  "main": "index.js",
+  "repository": "https://github.com/RoiArthurB/prism-gaml",
+  "author": "RoiArthurB <contact@arthurbrugiere.fr>",
+  "license": "MIT"
+}
