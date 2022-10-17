@@ -5,71 +5,71 @@
 
 var theme = {
   plain: {
-    color: "#282A36",
-    backgroundColor: "#FFFFFF",
+    color: "#F8F8F2",
+    backgroundColor: "#282A36",
   },
   styles: [
     {
       types: ["variable"],
       style: {
-        color: "rgb(28,125,180)",
+        color: "rgb(94,198,163)",
       },
     },
     {
       types: ["operator"],
       style: {
-        color: "rgb(46,93,78)",
+        color: "rgb(163,230,34)",
         fontStyle: "bold",
       },
     },
     {
       types: ["statement"],
       style: {
-        color: "rgb(127,0, 85)",
+        color: "rgb(204,108,29)",
         fontStyle: "bold",
       },
     },
     {
       types: ["string"],
       style: {
-        color: "rgb(116,167,251)",
+        color: "rgb(141,218,248)",
       },
     },
     {
       types: ["comment"],
       style: {
-        color: "rgb(63,127,95)",
+        color: "rgb(56,142,193)",
       },
     },
     {
       types: ["facet"],
       style: {
-        color: "rgb(154,72,71)",
+        color: "rgb(243,159,62)",
       },
     },
     {
       types: ["constant"],
       style: {
-        color: "rgb(0, 0, 0)",
+        color: "rgb(166,166,166)",
       },
     },
     {
       types: ["boolean", "number"],
       style: {
-        color: "rgb(125,125,125)",
+        color: "rgb(103,150,186)",
       },
     },
     {
       types: ["keyword"],
       style: {
-        color: "rgb(0, 0, 0)",
+        color: "rgb(166,166,166)",
         fontStyle: "italic",
       },
     },
     {
       types: ["type_statement"],
       style: {
-        color: "rgb(127,0,85)",
+        color: "rgb(204,108,29)",
         fontStyle: "bold",
       },
     },
