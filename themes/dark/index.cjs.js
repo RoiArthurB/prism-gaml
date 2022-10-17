@@ -76,4 +76,4 @@ var theme = {
   ],
 };
 
-export default theme;
+module.exports = theme;
