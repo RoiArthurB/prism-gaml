@@ -1,6 +1,6 @@
 {
   "name": "prism-gaml",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Brings GAML language to PrismJS engine",
   "main": "index.js",
   "repository": "https://github.com/RoiArthurB/prism-gaml",

@@ -20,6 +20,6 @@ Prism.languages.gaml = {
 	'keyword':/\b(?:nil|each|self|myself)\b/,
 	'constant':/#[A-Za-z]+/i,
 	'punctuation': /\.\.?|[,;():]/,
-	'variableDefinition': /\b(?<=string|action|agent|attributes|BDIPlan|bool|container|conversation|date|directory|emotion|field|file|float|font|gaml_type|gen_population_generator|gen_range|geometry|graph|int|kml|list|map|material|matrix|mental_state|message|Norm|pair|path|point|predicate|regression|rgb|Sanction|skill|social_link|species|string|topology|unknown)\s*[a-z]\w*/i,	
+	'variableDefinition': /\b(?:string|action|agent|attributes|BDIPlan|bool|container|conversation|date|directory|emotion|field|file|float|font|gaml_type|gen_population_generator|gen_range|geometry|graph|int|kml|list|map|material|matrix|mental_state|message|Norm|pair|path|point|predicate|regression|rgb|Sanction|skill|social_link|species|string|topology|unknown)\s*[a-z]\w*/i,	
 	'variable': /\b[a-z](?:\w)*\b/i
 };
